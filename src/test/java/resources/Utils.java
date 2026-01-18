@@ -14,6 +14,7 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
+//file conatains all utility methods
 public class Utils{
 	public static RequestSpecification req;
 	
